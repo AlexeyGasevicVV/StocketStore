@@ -32,7 +32,7 @@ Der Abschluss der Anleitung ist das Aufsetzen des Spring Boots Back-Ends.
 Laden Sie das System hier aus Github runter. Die Java Programme sind bereits Kompiliert und nutzbar.
 
 ### Achtung: 
-Die Config Files müssen angepasst werden. Die Path Sql bezogenen Variablen müssen angepasst werden.
+Die Config Files müssen angepasst werden. Die Path und Sql bezogenen Variablen müssen angepasst werden.
 Zuästzlich müssen die 
 
 das FileSystem schaut wie folgt aus:
