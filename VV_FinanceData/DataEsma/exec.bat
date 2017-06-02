@@ -1,0 +1,1 @@
+java -jar .\Programms\MTMquery.jar ".\Batch\curlEsma.bat" ".\Data" && .\Batch\curlEsma.bat && java -jar .\Programms\converter.jar .\Configs\converterEsma.conf
